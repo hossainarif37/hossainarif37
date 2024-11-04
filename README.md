@@ -4,7 +4,7 @@ Hi 👋 Welcome to My Profile!
 Frontend Web Developer
 -----------------------
 
-I’m a Frontend Developer working within the JavaScript ecosystem. I focus on building performant, scalable web applications that emphasize clean code and maintainability. With a solid understanding of modern frontend technologies, I ensure that the solutions I build are optimized for both user experience and long-term growth.
+I'm a Frontend Web Developer specializing in the JavaScript ecosystem. I focus on building high-performance, scalable web applications with clean, maintainable code. With a solid understanding of modern frontend technologies, I ensure that my solutions are optimized for both user experience and long-term growth.
 
 * 🌍  I'm based in Rangpur, Bangladesh
 * ✉️  You can contact me at [hossainarif4937@gmail.com](mailto:hossainarif4937@gmail.com)
