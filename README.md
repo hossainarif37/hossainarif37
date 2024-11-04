@@ -89,8 +89,6 @@ I'm a Frontend Web Developer specializing in the JavaScript ecosystem. I focus o
   </a>
 </p>
 
-### Badges
-
-<b>My GitHub Stats</b>
+<b>GitHub Stats</b>
 
 <a href="http://www.github.com/hossainarif37"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hossainarif37&stroke=0891b2&background=000000&ring=0891b2&fire=0891b2&currStreakNum=0891b2&currStreakLabel=0891b2&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
