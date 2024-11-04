@@ -17,7 +17,7 @@ I'm a Frontend Web Developer specializing in the JavaScript ecosystem. I focus o
 <!-- Language and Tools Icons -->
 <div align="center">
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,redux,vite,firebase,express,nodejs,mongodb,postman,figma,git)](#)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,redux,firebase,nodejs,express,mongodb,postman,figma,git)](#)
 
 </div>
 
