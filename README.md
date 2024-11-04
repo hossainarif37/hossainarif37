@@ -10,7 +10,7 @@ I’m a Frontend Developer working within the JavaScript ecosystem. I focus on b
 * ✉️  You can contact me at [hossainarif4937@gmail.com](mailto:hossainarif4937@gmail.com)
 * 🚀  I'm currently working on [TechConnect](http://tech-connect-community.vercel.app/)
 * 🧠  I'm learning System Design
-* 🤝  I'm open to collaborating on interesting project which will be help for community
+* 🤝  I'm open to collaborating on interesting projects that can benefit the community.
 
 ### Skills
 
