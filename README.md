@@ -1,7 +1,7 @@
-Hi 👋 My name is Ariful Islam
+Hi 👋 Welcome to My Profile!
 =============================
 
-Front-end Web Developer
+Frontend Web Developer
 -----------------------
 
 I’m a Frontend Developer working within the JavaScript ecosystem. I focus on building performant, scalable web applications that emphasize clean code and maintainability. With a solid understanding of modern frontend technologies, I ensure that the solutions I build are optimized for both user experience and long-term growth.
