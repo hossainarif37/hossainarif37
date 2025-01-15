@@ -10,7 +10,7 @@ I love to learn something new from anyone. I believe that every interaction is a
 
 * 🌍  I'm based in Rangpur, Bangladesh
 * ✉️  You can contact me at [hossainarif4937@gmail.com](mailto:hossainarif4937@gmail.com)
-* 🚀  I'm currently working on [TechConnect](http://tech-connect-community.vercel.app/)
+* 🚀  I'm currently working on [TechConnect](https://lampdriving-frontend.vercel.app/)
 * 🧠  I'm learning System Design
 * 🤝  I'm open to collaborating on interesting projects that can benefit the community.
 
@@ -49,7 +49,3 @@ I love to learn something new from anyone. I believe that every interaction is a
     </picture>
   </a>
 </p>
-
-<b>GitHub Stats</b>
-
-<a href="http://www.github.com/hossainarif37"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hossainarif37&stroke=0891b2&background=000000&ring=0891b2&fire=0891b2&currStreakNum=0891b2&currStreakLabel=0891b2&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
