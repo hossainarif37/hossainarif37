@@ -10,8 +10,8 @@ I love to learn something new from anyone. I believe that every interaction is a
 
 * 🌍  I'm based in Rangpur, Bangladesh
 * ✉️  You can contact me at [hossainarif4937@gmail.com](mailto:hossainarif4937@gmail.com)
-* 🚀  I'm currently working on [Lamp Driving School](https://lampdriving-frontend.vercel.app/)
-* 🧠  I'm learning System Design
+* 🚀  I'm currently working on [Lamp Driving School](https://lampdriving.com.au/)
+* 🧠  Exploring Go
 * 🤝  I'm open to collaborating on interesting projects that can benefit the community.
 
 ### Skills
